@@ -6,6 +6,7 @@ namespace Task91
     {
         static void Main(string[] args)
         {
+            //новый гит
             string[] ExArray = { "DivideByZeroException", "IndexOutOfRangeException", "InvalidCastException", "NameException", "OverflowException" };
 
             for (int i = 0; i < ExArray.Length; i++)
